@@ -1,4 +1,4 @@
-<img src="https://markdmurray.com/images/tor.jpeg" alt="Tor Relays" width="417" height="278">
+<img src="https://markdmurray.com/tor.png" alt="Tor Relays" width="417" height="278">
 <br>
 
 
