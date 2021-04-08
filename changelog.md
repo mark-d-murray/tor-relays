@@ -3,6 +3,18 @@
 This is the changelog. Any notable changes with my relays or config will be documented here
 
 
+## 2021-04-05
+### What's New?
+
+Lux3 now has Guard flag status
+
+
+## 2021-04-03
+### What's New?
+
+Uk4 now has Guard flag status
+
+
 ## 2021-04-02
 ### What's New?
 
