@@ -2,17 +2,29 @@
 
 This is the changelog. Any notable changes with my relays or config will be documented here
 
+## 2021-05-27
+## What's New?
+
+- Transition from UK relays to Luxembourg relays complete
+- IPV6 enabled on all relays
+
+
+## 2021-05-07
+## What's New?
+
+- Started replacing UK relays with Luxembourg relays for greater network diversity
+- Updated an image on the repo
 
 ## 2021-04-05
 ### What's New?
 
-Lux3 now has Guard flag status
+- Lux3 now has Guard flag status
 
 
 ## 2021-04-03
 ### What's New?
 
-Uk4 now has Guard flag status
+- Uk4 now has Guard flag status
 
 
 ## 2021-04-02
