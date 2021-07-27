@@ -2,7 +2,7 @@
 <br>
 
 
-<p>I run some high bandwidth relays on the Tor network. Tor protects privacy and security online, and helps people in countries with strict internet censorship. I currently run nine relays and one bridge which provide a combined total of over 1.5 Gbps throughput. You can see <a href="https://metrics.torproject.org/rs.html#search/family:B4BAEE803B6EB75750D6584A24FB37BE53F4E75D">my relays</a> or <a href="https://metrics.torproject.org/rs.html#aggregate/all/family:B4BAEE803B6EB75750D6584A24FB37BE53F4E75D">aggregated statistics</a> on the Tor Metrics website.</p>
+<p>I run some high bandwidth relays on the Tor network. Tor protects privacy and security online, and helps people in countries with strict internet censorship. I currently run ten relays and one bridge relay which provide a combined total of over 1.5 Gbps throughput. You can see <a href="https://metrics.torproject.org/rs.html#search/family:B4BAEE803B6EB75750D6584A24FB37BE53F4E75D">my relays</a> or <a href="https://metrics.torproject.org/rs.html#aggregate/all/family:B4BAEE803B6EB75750D6584A24FB37BE53F4E75D">aggregated statistics</a> on the Tor Metrics website.</p>
 <br>
 <br>
 <p>&nbsp;</p>
@@ -17,7 +17,7 @@
 <li>Autonomous System Diversity - A lot of existing relays are hosted with Hetzner, OVH, and Online.net. To increase network diversity, I use G-Core Labs (AS199524) &amp; Frantech Solutions (AS53667)</li>
 </ul>
 <ul>
-<li>Security - Root login disabled, access via SSH Key only I have</li>
+<li>Security - Root login disabled, access via SSH Key</li>
 </ul>
 
 
